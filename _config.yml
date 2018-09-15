@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: enPiT2018 GitHub Pagesチュートリアルー
+description: GitHub Pageについて優しく解説します
+gitHub:
+  is_project_page: false
